@@ -1,0 +1,5 @@
+This folder is supposed to store all the images of crops / map tiles and whatever.
+However, Stardew Valley Maps are in XNB format, and unpacked into tbin format, so I'm still doing research into how to extract them
+
+For extraction purposes, refer to https://steamcommunity.com/sharedfiles/filedetails/?id=1709011717
+I'm using the XNB Mod Toolkit.
